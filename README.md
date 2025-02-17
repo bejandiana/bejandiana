@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @bejandiana
 - 👀 I’m interested in cryptography
-- 🌱 I’m currently learning Rust & Blockchain
